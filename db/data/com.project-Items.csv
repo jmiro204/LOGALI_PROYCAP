@@ -1,0 +1,2 @@
+Salesorderitem,ID,Name,Description,Releasedate,Discontinueddate,Price,Height,Widht,Depth,Quantity,Unitofmeasure,Salesorderid_ID,Salesorderid_Salesorderid,createdAt,createdBy,modifiedAt,modifiedBy
+10,5471718e-33ab-4928-b386-961ae91fc3a0,Name-5471718,Description-5471718,2002-11-29,2020-06-05,13.97,48.936,58.173,64.23,32.24,18,13705963-d387-4119-88e1-7b48f741962d,200,2009-11-27T00:00:00.000Z,createdBy.39a06@example.net,2015-07-31T00:00:00.000Z,modifiedBy.39a06@example.net
